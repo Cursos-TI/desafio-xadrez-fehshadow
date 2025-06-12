@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    char direcaoTorre[1], direcaoBispo1[1], direcaoBispo2[1], direcaoRainha[1];
+    char direcaoTorre[10], direcaoBispo1[10], direcaoBispo2[10], direcaoRainha[10];
 
     // Entrada do jogador
     printf("Escolha a direção da Torre (Direita/Esquerda/Cima/Baixo): ");
